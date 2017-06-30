@@ -1,0 +1,21 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2013.11.29"]
+[Round "-"]
+[White "cnptruck"]
+[Black "kavun"]
+[Result "1-0"]
+[WhiteElo "804"]
+[BlackElo "850"]
+[TimeControl "300"]
+[EndTime "21:08:13 PST"]
+[Termination "cnptruck won on time"]
+
+1. e4 {[%clk 0:05:00]} 1... e5 {[%clk 0:05:00]} 2. Qh5 {[%clk 0:04:57]} 2... Qf6
+{[%clk 0:04:03]} 3. Nf3 {[%clk 0:04:50]} 3... Ne7 {[%clk 0:03:33]} 4. Qxe5
+{[%clk 0:04:45]} 4... Nc6 {[%clk 0:02:41]} 5. Qxc7 {[%clk 0:04:39]} 5... Nd5
+{[%clk 0:01:57]} 6. Qg3 {[%clk 0:04:23]} 6... Nf4 {[%clk 0:01:36]} 7. d3 {[%clk
+0:04:18]} 7... Bc5 {[%clk 0:00:28]} 8. Qxf4 {[%clk 0:04:08]} 8... Qxf4 {[%clk
+0:00:26]} 9. Bxf4 {[%clk 0:04:03]} 9... d5 {[%clk 0:00:14]} 10. exd5 {[%clk
+0:03:59]} 10... Nd4 {[%clk 0:00:07]} 11. Kd2 {[%clk 0:03:44]} 11... O-O {[%clk
+0:00:06]} 12. c3 {[%clk 0:03:42]} 1-0
